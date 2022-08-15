@@ -1,8 +1,10 @@
 ## Hi there 👋 I am Arun Kumar
 
+![](https://visitor-badge.glitch.me/badge?page_id=Arun05hp.Arun05hp)
 
-| ![Arun Kumar GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Arun05hp&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arun05hp&layout=compact) |
-| --- | --- |
+| ![Arun Kumar GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Arun05hp&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arun05hp&layout=compact&theme=buefy&hide_border=true) |
+| ------------- | ------------- |
+
 
 ### Things I code with
 
