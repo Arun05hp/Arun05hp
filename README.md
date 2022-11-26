@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Arun05hp.Arun05hp)
 
-| ![Arun Kumar GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Arun05hp&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=buefy) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arun05hp&layout=compact&theme=buefy&hide_border=true) |
+| ![Arun Kumar GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Arun05hp&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=buefy&hide=issues,contribs) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arun05hp&layout=compact&theme=buefy&hide_border=true) |
 | ------------- | ------------- |
 
 
