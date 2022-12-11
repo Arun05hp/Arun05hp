@@ -50,7 +50,7 @@
 
 ## Connect with Me 🤝🏻
 
-<a href="https://www.linkedin.com/in/arunkumarnarotra" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!-- <a href="https://www.linkedin.com/in/arunkumarnarotra" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 <a href="https://github.com/Arun05hp" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="mailto:narotra05.96@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
 
